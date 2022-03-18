@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Software Designs, Software Testing, and Solidty Testing
 - 💞️ I’m looking to collaborate on BlockChain Projects
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/ignacio-almeida/) and [Twitter](https://twitter.com/IgnacioRdeAlme3)
-- 🕹 In my free time I love to play video games (Fifa, Legends of Runeterra, LoL),board games, play sports, spend time with family and friends
+- 🕹 I like to spend my free time with friends and family, and also playing video games (LoL, LoR, and Fifa) or watch TV Shows/Anime
 
 <!---
 IgnacioAlmeida/IgnacioAlmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
