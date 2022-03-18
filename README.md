@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ignacio from Uruguay 🇺🇾 - The Silicon Valley of South America
-- 🇺🇸 I'm a student at Brigham Young University 🇺
-- 📖 I'm currently studying Computer Science: SWE
+- 🇺🇸 I'm a CS student at Brigham Young University 🇺
 - 👀 I’m interested in BlockChain and Full-Stack development
 - 🌱 I’m currently learning Software Designs, Software Testing, and Solidty Testing
 - 💞️ I’m looking to collaborate on BlockChain Projects
