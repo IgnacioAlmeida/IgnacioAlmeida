@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Ignacio from Uruguay 🇺🇾 - The Silicon Valley of South America
-- 🇺🇸 I'm a CS student at Brigham Young University 🇺
-- 👀 I’m interested in BlockChain and Full-Stack development
-- 🌱 I’m currently learning Software Designs, Software Testing, and Solidty Testing
-- 💞️ I’m looking to collaborate on BlockChain Projects
-- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/ignacio-almeida/) and [Twitter](https://twitter.com/IgnacioRdeAlme3)
-- 🕹 I like to spend my free time with friends and family, playing video games (LoL, LoR, and Fifa), watching TV Shows/Anime, and learning cool stuff in programming!
+- 👋 Hi, I’m Ignacio from Uruguay 🇺🇾 — The Silicon Valley of South America  
+- 💼 I'm a Software Engineer at Goldman Sachs, Utah, working on the Networks team  
+- 🎓 Former CS student at Brigham Young University, Utah  
+- 👀 Interested in Full-Stack development, AI, Cybersecurity, Networks, and Blockchain
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ignacio-almeida/) or [Twitter](https://twitter.com/IgnacioRdeAlme3)  
+- 🕹 In my free time, I enjoy spending time with friends and family, playing games (LoL, LoR, FIFA), watching anime, and exploring new tech!
 
 <!---
 IgnacioAlmeida/IgnacioAlmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
